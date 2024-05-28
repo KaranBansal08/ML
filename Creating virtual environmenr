@@ -1,0 +1,8 @@
+IN COMMAND PROMPT
+
+cd /path/to/your/project
+python -m venv myenv
+myenv\Scripts\activate
+
+
+deactivate
